@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 5457c5c7-3d04-9d63-7f33-c40d869f086a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8d0a71f4-ef65-667e-377e-f607228d35bf
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 73cc0a77-a29d-759e-b54f-8e34659f3e84
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
+- identifier: 2f7d25fe-5792-1c95-c941-2f9f2d327671
+  name: Course Pedagogy
+  pageRef: /pages/course-pedagogy
+  weight: 40
