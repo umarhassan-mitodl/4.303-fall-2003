@@ -5,8 +5,6 @@ description: 'Example of a student project for the course: an intervention propo
 file: /courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/447a0b645267e8ba81900931240b4d8a_timcarrie.pdf
 file_size: 917891
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

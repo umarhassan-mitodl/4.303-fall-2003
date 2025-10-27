@@ -5,8 +5,6 @@ description: 'Example of a student project for the course: an intervention propo
 file: /courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/2397d05c10bccbbcc4620e376665e0d4_rossstephen.pdf
 file_size: 242683
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

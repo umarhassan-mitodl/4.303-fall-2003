@@ -2,8 +2,6 @@
 content_type: page
 description: Examples of projects by students. Each work is courtesy of the students
   named, and used with permission.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -49,7 +47,7 @@ Rob Morgan and Katherine James
 Jimmy Shen, Ophelia Wilkins, and Konstantinos Chadios
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ([MP4 - 12 MB](https://archive.org/download/MIT4.303F03/4.303-220k.mp4))
+Video: ({{% resource_link "ce2bb801-b576-4cce-8aa8-a1691b923061" "MP4 - 12 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
